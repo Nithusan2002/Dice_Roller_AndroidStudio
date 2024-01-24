@@ -1,4 +1,4 @@
-## Purpose
+## Idea
 <p>An interactive Android app called Dice Roller that lets users roll a dice and shows them the result of the roll.</p>
 
 ## Tech Stack
